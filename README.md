@@ -72,4 +72,4 @@ ShohamKatash – GitHub Profile
 This project is licensed under the MIT License. See the LICENSE
  file for details.
 
-אם תרצה, אני יכול להכין גם גרסה עם תמונות, אייקונים ואפילו gif שממחישים את הפעולה של הגנרטור, כדי שה־README ייראה עוד יותר מקצועי ואטרקטיבי.
+
